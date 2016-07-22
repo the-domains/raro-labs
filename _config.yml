@@ -1,0 +1,14 @@
+layout_spectrum: 0.9516129
+typography_spectrum: 0.4032258
+color:
+  saturation: 0.4398884
+  lightness: 0.4278138
+  brandStrength: 0.7311828
+  brandColors:
+    - '#FFFFFF'
+    - '#008ACD'
+    - '#7BC3E6'
+    - '#D7D7D7'
+    - '#32A0D6'
+  rhythmicContrast: 0.2782848
+name: Raro Labs
